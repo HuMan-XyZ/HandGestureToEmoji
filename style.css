@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.header {
+border: lightblue ridge 2.5px;
+font-size: 20px;
+width: fit-content;
+padding: 8px;
+color: lightblue;
+}
+
+body {
+background-color: rgb(29, 26, 26);
+font-family: 'Poppins', sans-serif;
+}
+
+span{
+font-size: 35px;
+padding: 0.5px;
+
+}
+
+#camera , #result
+{
+  border: 2px dashed lightblue;
+  width: 350px;
+  height: 300px; 
+}
+
+label{
+color: white;
+}
